@@ -1,1 +1,1 @@
-# ReseachRAG
+# ResearchRAG
